@@ -1,0 +1,6 @@
+Het langste woord dat eindigt op een klinker is: orthopedagogie
+Het langste woord dat eindigt op een medeklinker is: hottentottententententoonstelling
+Het kortste woord dat begint met een klinker is: ik
+Het kortste woord dat begint met een medeklinker is: zo
+Het aantal gebruikte klinkers is: 256
+Het aantal gebruikte medeklinkers is: 366

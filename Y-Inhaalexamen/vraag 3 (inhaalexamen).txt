@@ -1,0 +1,17 @@
+Je krijgt een invoerbestand. In dat invoerbestand staan woorden. De bedoeling is dat je al deze woorden gaat inlezen en de volgende zaken gaat uitzoeken:
+- zoek het langste woord dat eindigt op een klinker
+- zoek het langste woord dat eindigt op een medeklinker
+- zoek het kortste woord dat begint met een klinker
+- zoek het kortste woord dat begint met een medeklinker
+- tel hoeveel klinkers er voorkomen in alle woorden
+- tel hoeveel medeklinkers er voorkomen in alle woorden
+
+De resultaten schrijf je als volgt uit naar een uitvoerbestand:
+Het langste woord dat eindigt op een klinker is:
+Het langste woord dat eindigt op een medeklinker is:
+Het kortste woord dat begint met een klinker is:
+Het kortste woord dat begint met een medeklinker is:
+Het aantal gebruikte klinkers is:
+Het aantal gebruikte medeklinkers is:
+
+Upload je uitvoerbestand en je .py implementatie naar xtoledo.
