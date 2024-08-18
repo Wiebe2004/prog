@@ -1,0 +1,5 @@
+Total numbr of products: 7
+Average price: 471.0
+Most expensive products:
+	Laptop
+	Television

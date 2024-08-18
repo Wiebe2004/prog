@@ -1,0 +1,7 @@
+Laptop, 800
+Smartphone, 500
+Tablet, 300
+Headphones, 100
+Camera, 600
+Smartwatch, 200
+Television, 800

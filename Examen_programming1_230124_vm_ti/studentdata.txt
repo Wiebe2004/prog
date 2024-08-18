@@ -1,0 +1,16 @@
+Jef, Wiskunde, 11
+Tom, Chemie, 9
+Jef, Chemie, 8
+Jef, Biologie, 16
+Tom, Biologie, 17
+An, Fysica, 14
+An, Wiskunde, 13
+Sara, Wiskunde, 15
+Sara, Chemie, 18
+Sara, Biologie, 12
+Piet, Informatica, 17
+Piet, Fysica, 10
+Tom, Informatica, 14
+Jef, Informatica, 12
+An, Chemie, 11
+An, Biologie, 15

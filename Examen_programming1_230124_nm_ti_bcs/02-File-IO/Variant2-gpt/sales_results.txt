@@ -1,0 +1,3 @@
+Total number of products: 4
+Best elling product(s):
+	Smartphone

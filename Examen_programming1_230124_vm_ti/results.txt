@@ -1,0 +1,12 @@
+Per course: 
+	 Wiskunde: 13.0
+	 Chemie: 11.5
+	 Biologie: 15.0
+	 Fysica: 12.0
+	 Informatica: 14.3
+Per student: 
+	Jef: 11.8
+	Tom: 13.3
+	An: 13.2
+	Sara: 15.0
+	Piet: 13.5

@@ -1,0 +1,4 @@
+Total number of student: 4
+Highest score: 214
+Highest scorer(s):
+	Wiebe

@@ -1,0 +1,10 @@
+Alice, Math, 85
+Bob, Chemistry, 100
+Alice, English, 53
+Bob, Math, 100
+Charlie, Math, 100
+Charlie, Chemistry, 100
+Alice, Chemistry, 44
+Wiebe, Elektricity, 100
+Wiebe, Chemistry, 64
+Wiebe, Prog-1, 50
